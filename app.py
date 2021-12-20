@@ -1,3 +1,5 @@
+#import pillow
+import PIL
 from PIL import Image
 from datetime import datetime
 from flask import Flask, request, render_template
