@@ -14,14 +14,14 @@ feature_dir = './static/feature'
 model_dir = './static/model'
 
 # Read image features
-fe = FeatureExtractor(load_model(model_dir + '/Build_Modell_IR.h5', compile=False))
+fe = FeatureExtractor(load_model(model_dir + '/maskDetect_model.h5', compile=False))
 
 img_paths = list()
 
 for img_path in sorted(Path(base_dir).glob("*.png")):
     img_paths.append(img_path)
 
-features = np.load(feature_dir + '/extracted_feature.npy')
+features = np.load(feature_dir + '/extracted_feature_v1.npy')
 
 
 @app.route('/', methods=['GET', 'POST'])
