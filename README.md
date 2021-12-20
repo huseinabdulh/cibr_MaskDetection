@@ -16,6 +16,7 @@ Rian, Zakhayu; Christanti, Viny; Hendryli, Janson (2019). [IEEE 2019 IEEE Intern
 Neural Networks
 ## Cntributor
 Husein Abdul Hamid - 201810370311202
+
 Adhigana Priyatama - 201810370311212
 
 
