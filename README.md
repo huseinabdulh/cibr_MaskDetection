@@ -6,4 +6,6 @@
 
 
 ## Deskripsi Dataset 
-Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [FaceMask](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)
+Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [FaceMask](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset) yang terdiri dari :
+1. WithMask
+2. WithoutMask
