@@ -13,9 +13,13 @@ Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [Fa
 2. WithoutMask
 
 ## Paper Referensi
+1. Paper Utama :
 Rian, Zakhayu; Christanti, Viny; Hendryli, Janson (2019). [IEEE 2019 IEEE International Conference on Signals and Systems (ICSigSys) - Bandung, Indonesia (2019.7.16-2019.7.18)] 2019 IEEE International Conference on Signals and Systems (ICSigSys) - Content-Based Image Retrieval using Convolutional Neural Networks. , (), 1–7. doi:10.1109/ICSIGSYS.2019.8811089 
 
-Neural Networks
+
+2. Paper Pendukung :
+FACE MASK DETECTION USING CONVOLUTIONAL NEURAL NETWORK ,Dr.Beena Ullala Mata1, Bhavya S2 , Ashitha S3 1Professor, Dept. of medical electronics engineering, B.M.S College of engineering, Bangalore, India
+
 ## Contributor
 Husein Abdul Hamid - 201810370311202
 
