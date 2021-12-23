@@ -1,8 +1,10 @@
 # MASK HEROKU
 
-## Hasil Deploy di Local(Masih kegalalan interupt Model)
+## Deploy Heroku 
 
-![image](https://user-images.githubusercontent.com/49096980/146734051-5e350700-f1b9-4168-8787-c6f002c0543d.png)
+https://cibirmaskv1.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/49096980/147178319-1b07a891-0efb-41ba-ae18-1e8125552de6.jpeg)
 
 
 ## Deskripsi Dataset 
